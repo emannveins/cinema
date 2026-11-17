@@ -17,7 +17,7 @@ public class Film {
     public void visualizzaFilm() {
         System.out.println("===== FILM =====");
         System.out.println("Titolo: " + titolo);
-        System.out.println("Genere: " + genere);
+        System.out.println("Categoria: " + genere);
         System.out.println("Durata: " + durata + " minuti");
     }
 }
